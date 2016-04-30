@@ -1,6 +1,6 @@
 # Vahagn Stepanian - Portfolio
 
-I'm a visual and user exeperience designer from Wisconsin. This is my personal design portfolio.
+I'm a designer from Toronto. This is my personal design portfolio.
 ### [neuevision.com](http://neuevision.com/)
 
 ##### Tools
